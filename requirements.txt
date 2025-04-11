@@ -2,3 +2,4 @@ requests
 pandas
 pymsql
 sqlalchemy
+black
