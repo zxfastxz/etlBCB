@@ -1,5 +1,2 @@
-requests
-pandas
-pymsql
-sqlalchemy
+PyQt5
 black
